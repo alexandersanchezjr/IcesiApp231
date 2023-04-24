@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309450171059",
+    "project_id": "icesiapp231-51412",
+    "storage_bucket": "icesiapp231-51412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309450171059:android:b5994e629b5896696006c6",
+        "android_client_info": {
+          "package_name": "com.example.icesiapp231"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309450171059-pc44kp62bs6skd8bp4m8kp0rhc5gmclj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3e1yp84SdZcnp2q8dDVD49aDWVHCGec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309450171059-pc44kp62bs6skd8bp4m8kp0rhc5gmclj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
